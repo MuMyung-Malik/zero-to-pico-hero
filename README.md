@@ -1,6 +1,6 @@
 # Zero to Pico Hero
 
-This repo is my personal documentation (amature) of building a DIY Guitar Hero controller from scratch using a Raspberry Pi Pico. Since I didn't have much experience with embedded coding, I decided to learn by building it in three different languages: MicroPython, CircuitPython, and C. 
+This repo is my personal documentation of building a DIY Guitar Hero controller from scratch using a Raspberry Pi Pico. Since I didn't have much experience with embedded coding, I decided to learn by building it in three different languages: MicroPython, CircuitPython, and C. 
 
 The final goal is to keep the project in C, preferably bare-metal. Python was a great stepping stone to get comfortable with the hardware before diving into the deep end.
 
